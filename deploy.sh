@@ -1,3 +1,10 @@
 git add .
-git commit -m "$1"
+echo "Git Commit Message: "
+read msg
+git commit -m "$msg"
 git push --set-upstream origin master
+
+
+clear
+
+echo "-----------------------------------\nPushed project to repo\n-----------------------------------"
