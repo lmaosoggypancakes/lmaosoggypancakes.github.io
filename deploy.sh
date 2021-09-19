@@ -17,5 +17,5 @@ cd dist
 git init
 git add .
 git commit -m "$msg"
-git push --set-upstream https://github.com/lmaosoggypancakes/lmaosoggypancakes.github.io gh-pages 
+git push --set-upstream https://github.com/lmaosoggypancakes/lmaosoggypancakes.github.io gh-pages --force
 rm -rf .git
