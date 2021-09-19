@@ -19,4 +19,3 @@ git add .
 git commit -m "$msg"
 git push --set-upstream https://github.com/lmaosoggypancakes/lmaosoggypancakes.github.io gh-pages 
 rm -rf .git
-clear
