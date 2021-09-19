@@ -20,3 +20,7 @@ git add .
 git commit -m "$msg"
 git push --set-upstream origin master:gh-pages --force
 rm -rf .git
+
+clear
+
+echo "-----------------------------------\nDone!\n-----------------------------------"

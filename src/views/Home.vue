@@ -15,7 +15,7 @@
           'animation-delay': '0.5s',
         }"
       >
-        Hi! 👋 I'm Josef.
+        Hi! 👋 I'm Josef Macera.
       </p>
     </div>
     <div class="spacer layer1"></div>
