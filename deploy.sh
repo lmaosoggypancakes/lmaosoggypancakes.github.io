@@ -15,8 +15,8 @@ echo "-----------------------------------\nPushed project to repo\n-------------
 
 cd dist
 git init
+git remote add origin https://github.com/lmaosoggypancakes/lmaosoggypancakes.github.io gh-pages
 git add .
 git commit -m "$msg"
-git remote add origin https://github.com/lmaosoggypancakes/lmaosoggypancakes.github.io
-git push --set-upstream origin gh-pages --force
+git push --set-upstream origin master:gh-pages --force
 rm -rf .git
