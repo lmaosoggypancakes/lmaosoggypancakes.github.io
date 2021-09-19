@@ -1,3 +1,4 @@
+npm run lint
 npm run build
 echo "-----------------------------------\nVue project compiled\n-----------------------------------"
 git add .

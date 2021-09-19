@@ -5,14 +5,12 @@
 </template>
 
 <script lang="ts">
-
-import Vue from 'vue'
-export default Vue.extend({
-})
+import Vue from "vue";
+export default Vue.extend({});
 </script>
 <style lang="sass">
 @import "./variables"
-body 
+body
   margin: 0
   padding: 0
   font-family: "Ubuntu", sans-serif
