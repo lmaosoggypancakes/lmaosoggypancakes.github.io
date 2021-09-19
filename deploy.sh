@@ -17,5 +17,6 @@ cd dist
 git init
 git add .
 git commit -m "$msg"
-git push --set-upstream https://github.com/lmaosoggypancakes/lmaosoggypancakes.github.io -b gh-pages --force
+git remote add origin https://github.com/lmaosoggypancakes/lmaosoggypancakes.github.io
+git push --set-upstream origin gh-pages --force
 rm -rf .git
