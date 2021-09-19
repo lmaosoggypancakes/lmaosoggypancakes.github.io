@@ -80,8 +80,7 @@ export default Vue.extend({
   methods: {
     introduce(e: boolean, el: any, b: string) {
       if (e) {
-        console.log(`${b} is visible`)
-        this[b] = "intro"
+        (this as any)[b] = "intro"
       }
     }
   }
