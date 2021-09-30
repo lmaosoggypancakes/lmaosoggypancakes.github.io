@@ -15,7 +15,7 @@
           'animation-delay': '0.5s',
         }"
       >
-        Hi! 👋 I'm Josef Macera.
+        Hi! 👋 I'm Josef.
       </p>
     </div>
     <div class="spacer layer1"></div>
@@ -34,10 +34,7 @@
           'animation-delay': '0.5s',
         }"
       >
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae
-        doloribus temporibus sed earum. Nam laboriosam fuga eveniet dolores
-        necessitatibus veritatis, incidunt provident iure, quas impedit amet
-        recusandae praesentium, soluta enim.
+        idk what to put here
       </p>
     </div>
     <div class="spacer layer2"></div>
@@ -57,10 +54,7 @@
           'animation-delay': '0.5s',
         }"
       >
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus
-        possimus doloribus doloremque maiores provident porro nostrum
-        consequatur consectetur impedit nemo quod tempore eius tenetur sapiente
-        sit quia voluptate, voluptatibus distinctio.
+        no like seriously what do i put here
       </p>
     </div>
     <div class="spacer layer3"></div>
@@ -79,10 +73,7 @@
           'animation-delay': '0.5s',
         }"
       >
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit sequi
-        neque perspiciatis quaerat adipisci nemo omnis, fuga optio et mollitia
-        obcaecati reprehenderit laudantium quae, eligendi qui, odit nobis ut
-        dicta.
+        help
       </p>
     </div>
   </div>
@@ -112,6 +103,10 @@ export default Vue.extend({
 </script>
 
 <style lang="sass">
+
+@media only screen and (max-width: 600px)
+  body
+    font-size: 0.5em
 p
   opacity: 0
 .blue
