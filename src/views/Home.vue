@@ -34,7 +34,7 @@
           'animation-delay': '0.5s',
         }"
       >
-        idk what to put here
+        work in progress! :)
       </p>
     </div>
     <div class="spacer layer2"></div>
@@ -54,7 +54,7 @@
           'animation-delay': '0.5s',
         }"
       >
-        no like seriously what do i put here
+
       </p>
     </div>
     <div class="spacer layer3"></div>
@@ -73,7 +73,7 @@
           'animation-delay': '0.5s',
         }"
       >
-        help
+
       </p>
     </div>
   </div>
